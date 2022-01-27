@@ -14,8 +14,8 @@
   - [1장. 설계와 아키텍처란?](https://github.com/hwangnk1004/CleanArchitecture_study/issues/1)
   - [2장. 두 가지 가치에 대한 이야기](https://github.com/hwangnk1004/CleanArchitecture_study/issues/2)
 - 2주차
-  - 3장. 패러다임 개요
-  - 4장. 구조적 프로그래밍
+  - [3장. 패러다임 개요](https://github.com/hwangnk1004/CleanArchitecture_study/issues/3)
+  - [4장. 구조적 프로그래밍](https://github.com/hwangnk1004/CleanArchitecture_study/issues/4)
 - 3주차
   - 5장. 객체 지향 프로그래밍
   - 6장. 함수형 프로그래밍
