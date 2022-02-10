@@ -17,7 +17,7 @@
   - [3장. 패러다임 개요](https://github.com/hwangnk1004/CleanArchitecture_study/issues/3)
   - [4장. 구조적 프로그래밍](https://github.com/hwangnk1004/CleanArchitecture_study/issues/4)
 - 3주차
-  - 5장. 객체 지향 프로그래밍
+  - [5장. 객체 지향 프로그래밍] (https://github.com/hwangnk1004/CleanArchitecture_study/issues/new)
   - 6장. 함수형 프로그래밍
 - 4주차
   - 7장. SRP: 단일 책임 원칙
