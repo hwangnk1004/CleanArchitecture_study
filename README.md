@@ -21,7 +21,7 @@
   - [6장. 함수형 프로그래밍](https://github.com/hwangnk1004/CleanArchitecture_study/issues/new)
 - 4주차
   - [7장. SRP: 단일 책임 원칙](https://github.com/hwangnk1004/CleanArchitecture_study/issues/7)
-  - [8장. OCP: 개방-폐쇄 원칙](https://github.com/hwangnk1004/CleanArchitecture_study/issues/new)
+  - [8장. OCP: 개방-폐쇄 원칙](https://github.com/hwangnk1004/CleanArchitecture_study/issues/8)
 - 5주차:
   - 9장. LSP: 리스코프 치환 법칙
   - 10장. ISP: 인터페이스 분리 원칙
