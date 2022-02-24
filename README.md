@@ -24,7 +24,7 @@
   - [8장. OCP: 개방-폐쇄 원칙](https://github.com/hwangnk1004/CleanArchitecture_study/issues/8)
 - 5주차:
   - 9장. LSP: 리스코프 치환 법칙
-  - 10장. ISP: 인터페이스 분리 원칙
+  - [10장. ISP: 인터페이스 분리 원칙](https://github.com/hwangnk1004/CleanArchitecture_study/issues/10)
   - 11장. DIP: 의존성 역전 원칙
 - 6주차
   - 12장. 컴포넌트
