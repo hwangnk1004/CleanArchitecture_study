@@ -25,10 +25,10 @@
 - 5주차:
   - [9장. LSP: 리스코프 치환 법칙](https://github.com/hwangnk1004/CleanArchitecture_study/issues/9)
   - [10장. ISP: 인터페이스 분리 원칙](https://github.com/hwangnk1004/CleanArchitecture_study/issues/10)
-  - 11장. DIP: 의존성 역전 원칙
+  - [11장. DIP: 의존성 역전 원칙](https://github.com/hwangnk1004/CleanArchitecture_study/issues/11)
 - 6주차
-  - 12장. 컴포넌트
-  - 13장. 컴포넌트 응집도
+  - [12장. 컴포넌트](https://github.com/hwangnk1004/CleanArchitecture_study/issues/12)
+  - [13장. 컴포넌트 응집도](https://github.com/hwangnk1004/CleanArchitecture_study/issues/13)
 - 7주차
   - 14장. 컴포넌트 결합
 - 8주차
