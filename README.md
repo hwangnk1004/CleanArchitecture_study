@@ -30,20 +30,20 @@
   - [12장. 컴포넌트](https://github.com/hwangnk1004/CleanArchitecture_study/issues/12)
   - [13장. 컴포넌트 응집도](https://github.com/hwangnk1004/CleanArchitecture_study/issues/13)
 - 7주차
-  - 14장. 컴포넌트 결합
+  - [14장. 컴포넌트 결합](https://github.com/hwangnk1004/CleanArchitecture_study/issues/14)
 - 8주차
-  - 15장. 아키텍처란?
-  - 16장. 독립성
+  - [15장. 아키텍처란?](https://github.com/hwangnk1004/CleanArchitecture_study/issues/15)
+  - [16장. 독립성](https://github.com/hwangnk1004/CleanArchitecture_study/issues/16)
 - 9주차
-  - 17장. 경계: 선 긋기
-  - 18장. 경계 해부학  
+  - [17장. 경계: 선 긋기](https://github.com/hwangnk1004/CleanArchitecture_study/issues/17)
+  - [18장. 경계 해부학](https://github.com/hwangnk1004/CleanArchitecture_study/issues/18)
 - 10주차
-  - 19장. 정책과 수준
-  - 20장. 업무 규칙
+  - [19장. 정책과 수준](https://github.com/hwangnk1004/CleanArchitecture_study/issues/19)
+  - [20장. 업무 규칙](https://github.com/hwangnk1004/CleanArchitecture_study/issues/20)
 - 11주차
-  - 21장. 소리치는 아키텍처
-  - 22장. 클린 아키텍처
-  - 23장. 프레젠터와 험블 객체
+  - [21장. 소리치는 아키텍처](https://github.com/hwangnk1004/CleanArchitecture_study/issues/21)
+  - [22장. 클린 아키텍처](https://github.com/hwangnk1004/CleanArchitecture_study/issues/22)
+  - [23장. 프레젠터와 험블 객체](https://github.com/hwangnk1004/CleanArchitecture_study/issues/23)
 - 12주차
   - 24장. 부분적 경계
   - 25장. 계층과 경계
