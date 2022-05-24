@@ -45,9 +45,9 @@
   - [22장. 클린 아키텍처](https://github.com/hwangnk1004/CleanArchitecture_study/issues/22)
   - [23장. 프레젠터와 험블 객체](https://github.com/hwangnk1004/CleanArchitecture_study/issues/23)
 - 12주차
-  - 24장. 부분적 경계
-  - 25장. 계층과 경계
-  - 26장. 메인 컴포넌트
+  - [24장. 부분적 경계](https://github.com/hwangnk1004/CleanArchitecture_study/issues/24)
+  - [25장. 계층과 경계](https://github.com/hwangnk1004/CleanArchitecture_study/issues/25)
+  - [26장. 메인 컴포넌트](https://github.com/hwangnk1004/CleanArchitecture_study/issues/26)
 - 13주차
   - 27장. '크고 작은 모든' 서비스들
   - 28장. 테스트 경계
